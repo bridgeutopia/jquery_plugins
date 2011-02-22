@@ -1,9 +1,13 @@
-h1. jQuery I have written, modified and murdered
+h1. jQuery code I have written, modified and extended (more features) 
 
 h2. Youtube Vimeo
 
 p. Still working on improving code but it is functional. 
 
+p. TO DO: write examples. 
+
 h2. Character Counter
 
 p. Useful for Twitter-like projects. I don't have any. Maybe you do.
+
+p. TO DO: write examples. 
