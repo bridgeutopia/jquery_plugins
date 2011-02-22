@@ -1,0 +1,9 @@
+h1. jQuery I have written, modified and murdered
+
+h2. Youtube Vimeo
+
+p. Still working on improving code but it is functional. 
+
+h2. Character Counter
+
+p. Useful for Twitter-like projects. I don't have any. Maybe you do.
